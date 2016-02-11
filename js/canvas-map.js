@@ -89,7 +89,7 @@ function createMap(embed)
 	MapCSS.preloadSpriteImage("maxspeed", root+"styles/maxspeed.png");
 
 	// hillshading layer
-	var hillshading = new L.TileLayer('http://toolserver.org/~cmarqu/hill/{z}/{x}/{y}.png',
+	var hillshading = new L.TileLayer('http://{s}.tiles.wmflabs.org/hillshading/{z}/{x}/{y}.png',
 	{
 		attribution: translations['hillshadingAttribution'],
 		maxZoom: 17
