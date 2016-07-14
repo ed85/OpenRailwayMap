@@ -6,7 +6,7 @@
 	<Tags>openrailwaymap openstreetmap osm orm railway railroad map train</Tags>
 	<Contact>info@openrailwaymap.org</Contact>
 	<Developer>Alexander Matheisen</Developer>
-	<Attribution>Data &copy; OpenStreetMap contributors, Some Rights Reserved. Search engine provided by OpenRailwayMap.</Attribution>
+	<Attribution>Data © OpenStreetMap contributors, Some Rights Reserved. Search engine provided by OpenRailwayMap.</Attribution>
 	<OutputEncoding>UTF-8</OutputEncoding>
 	<InputEncoding>UTF-8</InputEncoding>
 	<Image height="64" width="64" type="image/png">http://www.openrailwaymap.org/img/openrailwaymap-64.png</Image>
